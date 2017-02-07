@@ -283,24 +283,8 @@ Home financing
 The third most important variable for analysis here is the question asking what kind of financing the respondents used to purchase their homes (Q25). These financing models each have different requirements and restrictions as to how or even whether real estate appraisers may value solar when determining a fair market value for the home at the time of sale. The responses for the different types of loans are as follows: 137 Conventional, 33 FHA, 32 VA, 74 Cash, 4 Other. 
 
 
-Installers and payments
-The unstructured questions on the first part of the survey establish what company installed the solar (Q8) and how much the homeowner pays on a lease if anything (Q6, Q7). The average monthly payment was $105. 
-
-
-Attitudes and Beliefs
-The matrix of questions (Q10) have to do with the homeowner’s attitudes and beliefs that may have influenced their decision to purchase the home, in terms of solar PV. This used a 5-point Likert scale going from “very positive” to “very negative”. 
-
-
-Solar Storage
-The next set of questions (Q18, Q19, Q26, Q20) have to do with measuring the homeowner’s familiarity with and willingness to potentially adopt solar battery technologies. 
-
-
 Demographics
-The demographic questions ask about the respondent’s gender (Q14), age (Q13), household income (Q17), race/ethnicity (Q15), and education (Q16). There were 175 Male and 102 Female respondents. The mean average age of these respondents was 54 years old. The greatest number of responses for income (128 responses)  showed that these households made over $100,000 of annual income. The vast majority identified themselves as being white (239). As for education levels, 213 respondents reported having an associate degree or higher. 
-
-
-Open ended questions
-The final two questions are open-ended questions where respondents could tell us their stories in short essay format (Q11, Q12). 
+The demographic questions ask about the respondent’s gender (Q14), age (Q13), household income (Q17), race/ethnicity (Q15), and education (Q16). There were 175 Male and 102 Female respondents. The mean average age of these respondents was 54 years old. The greatest number of responses for income (128 responses)  showed that these households made over $100,000 of annual income. The vast majority (239) self-identified as being white. As for education levels, 213 respondents reported having an associate degree or higher. 
 
 
 Variables for Organization and analysis:
