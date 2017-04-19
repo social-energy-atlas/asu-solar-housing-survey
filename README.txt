@@ -1,8 +1,9 @@
 Title
-Solar Housing Survey 2015
+ASU Solar Housing Survey
  
 Grant No.
-QESST ERC (ASU Consortium) Quantum Energy and Sustainable Solar Technologies, ASU IRB ID: STUDY00002904
+1) QESST ERC, ASU Consortium (Project creation and data collection)
+2) DE-EE0007664 (Final editing, publication, and dissemination)
  
 Creators
 Jason O’Leary <jason.oleary@asu.edu>
