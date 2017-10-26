@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/81146556.svg)](https://zenodo.org/badge/latestdoi/81146556)
+.. image:: https://zenodo.org/badge/81146556.svg
+   :target: https://zenodo.org/badge/latestdoi/81146556
 
 Title
 ASU Solar Housing Survey
